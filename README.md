@@ -5,8 +5,9 @@ Tecnicatura Universitaria en Programación
 ✨ Estudiante
 Nombre: Lujan, Gonzalo
 Comisión: Comision-16
-📂 Descripción del Repositorio
-Este repositorio almacena trabajos prácticos 3  realizados durante la cursada de Programación 1 .
+
+"📂 Descripción del Repositorio
+Este repositorio almacena trabajos prácticos 3  realizados durante la cursada de Programación 1 ."
 
 📌 Estructura del repositorio:
 
