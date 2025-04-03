@@ -4,6 +4,7 @@ Tecnicatura Universitaria en Programación
 
 ✨ Estudiante
 Nombre: Lujan, Gonzalo
+
 Comisión: Comision-16
 
 "📂 Descripción del Repositorio
